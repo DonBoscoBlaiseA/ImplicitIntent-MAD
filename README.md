@@ -32,7 +32,7 @@ Program to print the text “Implicitintent”.
 Developed by: Don Bosco Blaise A
 Registeration Number : 212221040045
 */
-```
+```  
 ## ACTIVITY_MAIN.XML:
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -69,7 +69,7 @@ Registeration Number : 212221040045
         app:layout_constraintStart_toStartOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-```
+```  
 ## MAINACTIVITY.JAVA:
 ```
 package com.example.implicitintent;
@@ -104,16 +104,14 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-```
+```  
 
 ## OUTPUT
-![Screenshot (212)](https://github.com/DonBoscoBlaiseA/ImplicitIntent-MAD/assets/140850829/29e5c170-5c03-49a0-820c-402ce53566a2)
-![Screenshot (213)](https://github.com/DonBoscoBlaiseA/ImplicitIntent-MAD/assets/140850829/c550f9c6-09b1-479d-aa40-594515ca34fb)
-![Output 1](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/7378ba9b-19db-4389-8a7b-76bdd0053dd2)
-![Output 2](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/553a56a6-e76a-4606-a46f-4007753329ec)
-![Output 3](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/c527aca9-be33-427d-9b3e-1840b201a66a)
-
-
+<img src="https://github.com/DonBoscoBlaiseA/ImplicitIntent-MAD/assets/140850829/29e5c170-5c03-49a0-820c-402ce53566a2.png" width="600">
+<img src="https://github.com/DonBoscoBlaiseA/ImplicitIntent-MAD/assets/140850829/c550f9c6-09b1-479d-aa40-594515ca34fb.png" width="600">
+<img src="https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/7378ba9b-19db-4389-8a7b-76bdd0053dd2.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/553a56a6-e76a-4606-a46f-4007753329ec.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/c527aca9-be33-427d-9b3e-1840b201a66a.png" height="600">
 
 ## RESULT
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the google page using Android Studio is developed and executed successfully.
